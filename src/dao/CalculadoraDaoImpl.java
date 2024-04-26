@@ -1,5 +1,5 @@
 package dao;
 
-public class CalculadoraDaoImpl {
+public class CalculadoraDaoImpl implements CalculadoraDao{
 
 }
